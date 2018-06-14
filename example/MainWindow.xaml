@@ -8,6 +8,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <DataGrid HorizontalAlignment="Left" Height="100" Margin="102,87,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="201,222,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
